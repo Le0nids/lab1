@@ -4,4 +4,10 @@
 
 Варіант завдання - №3
 
-Також до репозиторыю додано 2 скриншота Screenshot1.png та Screenshot2.png, які доводять працездатність надісланого коду.
+Також до репозиторыю додано 3 скриншота Screenshot1.png та Screenshot2.png, які доводять працездатність надісланого коду.
+
+Скриншот screenshot_validator.png демонструє резільтати перевірки роботи сторінки на ресурсі https://validator.w3.org/
+
+Також з резільтатом можливо ознайомитися за посиланням: https://validator.w3.org/nu/?doc=https%3A%2F%2Fle0nids.github.io%2Flab1%2Flab1.html
+
+Демонстрація роботи коду доступне за посиланням: https://le0nids.github.io/lab1/lab1.html
